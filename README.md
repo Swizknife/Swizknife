@@ -1,6 +1,8 @@
 # 💫 About Me:
 🎓 3rd-year Data Science student @BIT MESRA
-🤖 Passionate about AI/ML, data analysis, and software developments.<br><br>🌱 I’m currently learning Advanced Agentic AI, Multi-Agent Orchestration, Deep Learning, and efficient AI model deployment.<br><br>💬 Ask me about Python, PyTorch, LLMs, RAG, AI Agents, Computer Vision, FastAPI, and Generative AI.<br><br>⚡ Fun fact: I build intelligent AI systems, mentor aspiring developers, play competitive basketball, and rock the guitar! 🎸🏀
+🤖 Passionate about AI/ML, data analysis, and software developments.<br><br>
+
+🌱 I’m currently learning Advanced Agentic AI, Multi-Agent Orchestration, Deep Learning, and efficient AI model deployment.<br><br>💬 Ask me about Python, PyTorch, LLMs, RAG, AI Agents, Computer Vision, FastAPI, and Generative AI.<br><br>⚡ Fun fact: I build intelligent AI systems, mentor aspiring developers, play competitive basketball, and rock the guitar! 🎸🏀
 
 
 ## 🌐 Socials:
