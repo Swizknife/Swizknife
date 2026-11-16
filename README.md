@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Agentic AI systems, autonomous AI agents, multi-agent workflows, and LLM-powered intelligent applications.<br><br>👯 I’m looking to collaborate on Open-source AI/ML projects, Agentic AI, Generative AI, multimodal systems, and AI-powered robotics.<br><br>🤝 I’m looking for help with Building scalable agentic architectures, optimizing LLM inference, and developing efficient real-time AI systems.<br><br>🌱 I’m currently learning Advanced Agentic AI, Multi-Agent Orchestration, Deep Learning, and efficient AI model deployment.<br><br>💬 Ask me about Python, PyTorch, LLMs, RAG, AI Agents, Computer Vision, FastAPI, and Generative AI.<br><br>⚡ Fun fact: I build intelligent AI systems, mentor aspiring developers, play competitive basketball, and rock the guitar! 🎸🏀
+🎓 3rd-year Data Science student @BIT MESRA
+🤖 Passionate about AI/ML, data analysis, and software developments.<br><br>🌱 I’m currently learning Advanced Agentic AI, Multi-Agent Orchestration, Deep Learning, and efficient AI model deployment.<br><br>💬 Ask me about Python, PyTorch, LLMs, RAG, AI Agents, Computer Vision, FastAPI, and Generative AI.<br><br>⚡ Fun fact: I build intelligent AI systems, mentor aspiring developers, play competitive basketball, and rock the guitar! 🎸🏀
 
 
 ## 🌐 Socials:
